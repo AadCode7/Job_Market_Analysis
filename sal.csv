@@ -1,0 +1,193 @@
+job_title,experience_level,salary_ex_level
+3D Computer Vision Researcher,SE,10000
+3D Computer Vision Researcher,EN,35000
+3D Computer Vision Researcher,MI,400000
+AI Developer,EN,127666.6667
+AI Developer,SE,147666.6667
+AI Developer,MI,150000
+AI Programmer,EN,55000
+AI Scientist,MI,117200
+AI Scientist,EX,200000
+AI Scientist,EN,277000
+AI Scientist,SE,560000
+Analytics Engineer,MI,99900
+Analytics Engineer,EN,130000
+Analytics Engineer,SE,157526.1728
+Analytics Engineer,EX,175125
+Applied Data Scientist,EN,56666.66667
+Applied Data Scientist,SE,219000
+Applied Data Scientist,MI,501250
+Applied Machine Learning Engineer,MI,97500
+Applied Machine Learning Scientist,EN,34500
+Applied Machine Learning Scientist,SE,105350
+Applied Machine Learning Scientist,MI,530733.3333
+Applied Scientist,EN,167356.6667
+Applied Scientist,SE,192907.6923
+Autonomous Vehicle Technician,EN,7000
+Autonomous Vehicle Technician,MI,45555
+Azure Data Engineer,SE,100000
+BI Analyst,EN,44000
+BI Analyst,MI,63000
+BI Analyst,SE,146000
+BI Data Analyst,SE,67000
+BI Data Analyst,EN,140778.6667
+BI Data Analyst,EX,150000
+BI Data Analyst,MI,1641142.857
+BI Data Engineer,EN,60000
+BI Developer,SE,129818.1818
+BI Developer,EN,130000
+Big Data Architect,SE,124999.5
+Big Data Engineer,SE,131666.6667
+Big Data Engineer,MI,448750
+Big Data Engineer,EN,458750
+Business Data Analyst,EN,46666.66667
+Business Data Analyst,SE,100000
+Business Data Analyst,MI,432875
+Business Intelligence Engineer,SE,174150
+Cloud Data Architect,SE,250000
+Cloud Data Engineer,SE,86000
+Cloud Data Engineer,MI,120000
+Cloud Database Engineer,SE,155000
+Compliance Data Analyst,EN,30000
+Computer Vision Engineer,EN,133750
+Computer Vision Engineer,SE,184033.3333
+Computer Vision Engineer,MI,653000
+Computer Vision Software Engineer,SE,50000
+Computer Vision Software Engineer,MI,81000
+Computer Vision Software Engineer,EN,113333.3333
+Data Analyst,EN,76350.53968
+Data Analyst,MI,116270.2754
+Data Analyst,EX,120000
+Data Analyst,SE,123036.0421
+Data Analytics Consultant,EN,50000
+Data Analytics Consultant,MI,113000
+Data Analytics Engineer,EN,16500
+Data Analytics Engineer,SE,58500
+Data Analytics Engineer,MI,122500
+Data Analytics Lead,SE,405000
+Data Analytics Lead,MI,1440000
+Data Analytics Manager,SE,137195
+Data Analytics Manager,EX,147500
+Data Analytics Manager,MI,147500
+Data Analytics Specialist,SE,95000
+Data Architect,MI,149714.2857
+Data Architect,SE,162500.9891
+Data Architect,EX,167500
+Data DevOps Engineer,SE,50000
+Data Engineer,MI,117876.878
+Data Engineer,SE,153828.3649
+Data Engineer,EX,209728.1569
+Data Engineer,EN,265580.303
+Data Infrastructure Engineer,SE,163500
+Data Infrastructure Engineer,MI,180827.5
+Data Lead,SE,212500
+Data Management Specialist,SE,65000
+Data Manager,EN,61450
+Data Manager,SE,119568.2
+Data Manager,MI,119833.3333
+Data Manager,EX,164000
+Data Modeler,SE,118900
+Data Operations Analyst,SE,90562.5
+Data Operations Engineer,MI,80000
+Data Operations Engineer,SE,126212.5
+Data Quality Analyst,SE,82863.33333
+Data Quality Analyst,EN,100000
+Data Science Consultant,EX,59000
+Data Science Consultant,MI,72400
+Data Science Consultant,EN,106571.4286
+Data Science Consultant,SE,203590.9091
+Data Science Engineer,MI,34000
+Data Science Engineer,SE,114875
+Data Science Lead,MI,86666.66667
+Data Science Lead,SE,193400
+Data Science Manager,MI,160187.5
+Data Science Manager,EX,189280
+Data Science Manager,SE,439483.2
+Data Science Tech Lead,SE,375000
+Data Scientist,SE,165580.2533
+Data Scientist,EX,180645.8333
+Data Scientist,EN,361651.7966
+Data Scientist,MI,476047.9503
+Data Scientist Lead,MI,85000
+Data Scientist Lead,SE,183000
+Data Specialist,EN,105000
+Data Specialist,SE,117777.7778
+Data Specialist,MI,127500
+Data Strategist,SE,81000
+Deep Learning Engineer,MI,90000
+Deep Learning Engineer,EN,135000
+Deep Learning Researcher,SE,115000
+Director of Data Science,SE,131000
+Director of Data Science,EX,223437.5
+ETL Developer,MI,50000
+ETL Developer,SE,151183.75
+ETL Engineer,MI,58750
+Finance Data Analyst,SE,45000
+Financial Data Analyst,EN,100000
+Financial Data Analyst,MI,102500
+Head of Data,MI,30000
+Head of Data,SE,119000
+Head of Data,EX,238183.3333
+Head of Data Science,EX,174795
+Head of Data Science,MI,2555000
+Head of Machine Learning,EX,6000000
+Insight Analyst,MI,38500
+Lead Data Analyst,SE,170000
+Lead Data Analyst,MI,776250
+Lead Data Engineer,MI,56000
+Lead Data Engineer,EX,150000
+Lead Data Engineer,SE,159000
+Lead Data Scientist,MI,82500
+Lead Data Scientist,SE,1170195.429
+Lead Machine Learning Engineer,SE,2548666.667
+ML Engineer,EN,17000
+ML Engineer,SE,192701.381
+ML Engineer,MI,1514472.727
+MLOps Engineer,MI,129000
+Machine Learning Developer,EN,73600
+Machine Learning Developer,SE,100000
+Machine Learning Developer,MI,100000
+Machine Learning Engineer,EN,93163.09524
+Machine Learning Engineer,MI,146174.1864
+Machine Learning Engineer,SE,201338.4306
+Machine Learning Infrastructure Engineer,MI,118630
+Machine Learning Infrastructure Engineer,SE,153902.8571
+Machine Learning Manager,SE,169000
+Machine Learning Research Engineer,MI,60000
+Machine Learning Research Engineer,EN,327666.6667
+Machine Learning Researcher,SE,50000
+Machine Learning Researcher,MI,123400
+Machine Learning Scientist,EN,129000
+Machine Learning Scientist,MI,139554.5455
+Machine Learning Scientist,SE,188086.3636
+Machine Learning Scientist,EX,190000
+Machine Learning Software Engineer,EN,10000
+Machine Learning Software Engineer,SE,212688.8889
+Manager Data Management,SE,125000
+Marketing Data Analyst,SE,137500
+Marketing Data Engineer,EN,90000
+NLP Engineer,MI,126000
+NLP Engineer,SE,205000
+Power BI Developer,EN,400000
+Principal Data Analyst,MI,75000
+Principal Data Analyst,SE,170000
+Principal Data Architect,SE,3000000
+Principal Data Engineer,SE,192500
+Principal Data Scientist,MI,151000
+Principal Data Scientist,SE,160000
+Principal Data Scientist,EX,416000
+Principal Machine Learning Engineer,SE,190000
+Product Data Analyst,EN,100000
+Product Data Analyst,MI,490000
+Product Data Scientist,SE,8000
+Research Engineer,EN,130000
+Research Engineer,SE,174175.1818
+Research Engineer,MI,178000
+Research Scientist,EX,80000
+Research Scientist,EN,115777.7778
+Research Scientist,MI,140676.913
+Research Scientist,SE,180111.8367
+Software Data Engineer,SE,50000
+Software Data Engineer,MI,100000
+Staff Data Analyst,EX,15000
+Staff Data Scientist,SE,105000
